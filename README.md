@@ -1,2 +1,2 @@
 # digima-ex
-simple management system for small business
+Simple management system for small business with JWT AUTH
